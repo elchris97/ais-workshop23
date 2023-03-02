@@ -2,5 +2,5 @@
 
 naruto
 sasuke
-sakura1
+sakura
 kakashi
