@@ -1,0 +1,6 @@
+# ./naruto.txt
+
+naruto
+sasuke
+sakura1
+kakashi
